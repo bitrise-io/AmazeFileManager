@@ -37,6 +37,7 @@ import com.amaze.filemanager.utils.FingerprintHandler
 import java.io.IOException
 import java.security.GeneralSecurityException
 
+
 /**
  * Decrypt dialog prompt for user fingerprint.
  */
