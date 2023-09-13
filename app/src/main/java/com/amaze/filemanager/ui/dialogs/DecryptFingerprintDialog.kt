@@ -77,4 +77,5 @@ object DecryptFingerprintDialog {
         handler.authenticate(manager, `object`)
     }
 
+    
 }
