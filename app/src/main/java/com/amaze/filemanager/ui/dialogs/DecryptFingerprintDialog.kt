@@ -76,4 +76,6 @@ object DecryptFingerprintDialog {
         val `object` = FingerprintManager.CryptoObject(CryptUtil.initCipher())
         handler.authenticate(manager, `object`)
     }
+
+    
 }
